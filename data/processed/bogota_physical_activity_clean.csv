@@ -1,0 +1,169 @@
+anio,localidad,frecuencia,porcentaje,es_total_ciudad
+2017,Usaquén,Ninguna en el mes,36.7,False
+2017,Chapinero,Ninguna en el mes,30.5,False
+2017,Santa Fe,Ninguna en el mes,46.1,False
+2017,San Cristóbal,Ninguna en el mes,56.3,False
+2017,Usme,Ninguna en el mes,57.5,False
+2017,Tunjuelito,Ninguna en el mes,49.8,False
+2017,Bosa,Ninguna en el mes,55.2,False
+2017,Kennedy,Ninguna en el mes,55.6,False
+2017,Fontibón,Ninguna en el mes,46.6,False
+2017,Engativá,Ninguna en el mes,50.5,False
+2017,Suba,Ninguna en el mes,45.2,False
+2017,Barrios Unidos,Ninguna en el mes,37.9,False
+2017,Teusaquillo,Ninguna en el mes,35.8,False
+2017,Los Mártires,Ninguna en el mes,49.3,False
+2017,Antonio Nariño,Ninguna en el mes,46.0,False
+2017,Puente Aranda,Ninguna en el mes,48.6,False
+2017,La Candelaria,Ninguna en el mes,44.1,False
+2017,Rafael Uribe Uribe,Ninguna en el mes,59.9,False
+2017,Ciudad Bolívar,Ninguna en el mes,54.0,False
+2017,Sumapaz,Ninguna en el mes,47.7,False
+2017,Bogotá D.C.,Ninguna en el mes,49.7,True
+2017,Usaquén,Menos de 1 vez por semana,7.3,False
+2017,Chapinero,Menos de 1 vez por semana,8.1,False
+2017,Santa Fe,Menos de 1 vez por semana,14.6,False
+2017,San Cristóbal,Menos de 1 vez por semana,13.1,False
+2017,Usme,Menos de 1 vez por semana,12.3,False
+2017,Tunjuelito,Menos de 1 vez por semana,9.5,False
+2017,Bosa,Menos de 1 vez por semana,11.2,False
+2017,Kennedy,Menos de 1 vez por semana,10.3,False
+2017,Fontibón,Menos de 1 vez por semana,11.8,False
+2017,Engativá,Menos de 1 vez por semana,8.1,False
+2017,Suba,Menos de 1 vez por semana,8.3,False
+2017,Barrios Unidos,Menos de 1 vez por semana,11.1,False
+2017,Teusaquillo,Menos de 1 vez por semana,8.1,False
+2017,Los Mártires,Menos de 1 vez por semana,15.8,False
+2017,Antonio Nariño,Menos de 1 vez por semana,15.4,False
+2017,Puente Aranda,Menos de 1 vez por semana,12.2,False
+2017,La Candelaria,Menos de 1 vez por semana,10.4,False
+2017,Rafael Uribe Uribe,Menos de 1 vez por semana,8.2,False
+2017,Ciudad Bolívar,Menos de 1 vez por semana,12.0,False
+2017,Sumapaz,Menos de 1 vez por semana,10.0,False
+2017,Bogotá D.C.,Menos de 1 vez por semana,10.1,True
+2017,Usaquén,1 a 2 veces por semana,24.6,False
+2017,Chapinero,1 a 2 veces por semana,28.6,False
+2017,Santa Fe,1 a 2 veces por semana,23.1,False
+2017,San Cristóbal,1 a 2 veces por semana,20.0,False
+2017,Usme,1 a 2 veces por semana,19.4,False
+2017,Tunjuelito,1 a 2 veces por semana,24.8,False
+2017,Bosa,1 a 2 veces por semana,20.3,False
+2017,Kennedy,1 a 2 veces por semana,18.1,False
+2017,Fontibón,1 a 2 veces por semana,22.1,False
+2017,Engativá,1 a 2 veces por semana,21.9,False
+2017,Suba,1 a 2 veces por semana,23.1,False
+2017,Barrios Unidos,1 a 2 veces por semana,26.7,False
+2017,Teusaquillo,1 a 2 veces por semana,25.0,False
+2017,Los Mártires,1 a 2 veces por semana,18.0,False
+2017,Antonio Nariño,1 a 2 veces por semana,22.8,False
+2017,Puente Aranda,1 a 2 veces por semana,20.9,False
+2017,La Candelaria,1 a 2 veces por semana,19.8,False
+2017,Rafael Uribe Uribe,1 a 2 veces por semana,20.5,False
+2017,Ciudad Bolívar,1 a 2 veces por semana,22.4,False
+2017,Sumapaz,1 a 2 veces por semana,27.1,False
+2017,Bogotá D.C.,1 a 2 veces por semana,21.7,True
+2017,Usaquén,3 o más veces por semana,31.4,False
+2017,Chapinero,3 o más veces por semana,32.8,False
+2017,Santa Fe,3 o más veces por semana,16.3,False
+2017,San Cristóbal,3 o más veces por semana,10.6,False
+2017,Usme,3 o más veces por semana,10.9,False
+2017,Tunjuelito,3 o más veces por semana,16.0,False
+2017,Bosa,3 o más veces por semana,13.3,False
+2017,Kennedy,3 o más veces por semana,16.0,False
+2017,Fontibón,3 o más veces por semana,19.5,False
+2017,Engativá,3 o más veces por semana,19.5,False
+2017,Suba,3 o más veces por semana,23.4,False
+2017,Barrios Unidos,3 o más veces por semana,24.4,False
+2017,Teusaquillo,3 o más veces por semana,31.1,False
+2017,Los Mártires,3 o más veces por semana,17.0,False
+2017,Antonio Nariño,3 o más veces por semana,15.7,False
+2017,Puente Aranda,3 o más veces por semana,18.3,False
+2017,La Candelaria,3 o más veces por semana,25.8,False
+2017,Rafael Uribe Uribe,3 o más veces por semana,11.5,False
+2017,Ciudad Bolívar,3 o más veces por semana,11.7,False
+2017,Sumapaz,3 o más veces por semana,15.2,False
+2017,Bogotá D.C.,3 o más veces por semana,18.5,True
+2021,Usaquén,Ninguna en el mes,38.4,False
+2021,Chapinero,Ninguna en el mes,34.1,False
+2021,Santa Fe,Ninguna en el mes,50.9,False
+2021,San Cristóbal,Ninguna en el mes,55.4,False
+2021,Usme,Ninguna en el mes,53.3,False
+2021,Tunjuelito,Ninguna en el mes,46.8,False
+2021,Bosa,Ninguna en el mes,50.5,False
+2021,Kennedy,Ninguna en el mes,53.3,False
+2021,Fontibón,Ninguna en el mes,43.6,False
+2021,Engativá,Ninguna en el mes,45.6,False
+2021,Suba,Ninguna en el mes,43.2,False
+2021,Barrios Unidos,Ninguna en el mes,40.0,False
+2021,Teusaquillo,Ninguna en el mes,32.2,False
+2021,Los Mártires,Ninguna en el mes,51.8,False
+2021,Antonio Nariño,Ninguna en el mes,44.5,False
+2021,Puente Aranda,Ninguna en el mes,42.1,False
+2021,La Candelaria,Ninguna en el mes,42.5,False
+2021,Rafael Uribe Uribe,Ninguna en el mes,51.6,False
+2021,Ciudad Bolívar,Ninguna en el mes,52.4,False
+2021,Sumapaz,Ninguna en el mes,44.1,False
+2021,Bogotá D.C.,Ninguna en el mes,49.7,True
+2021,Usaquén,Menos de 1 vez por semana,9.1,False
+2021,Chapinero,Menos de 1 vez por semana,11.3,False
+2021,Santa Fe,Menos de 1 vez por semana,16.5,False
+2021,San Cristóbal,Menos de 1 vez por semana,9.1,False
+2021,Usme,Menos de 1 vez por semana,17.2,False
+2021,Tunjuelito,Menos de 1 vez por semana,12.2,False
+2021,Bosa,Menos de 1 vez por semana,12.2,False
+2021,Kennedy,Menos de 1 vez por semana,10.6,False
+2021,Fontibón,Menos de 1 vez por semana,10.5,False
+2021,Engativá,Menos de 1 vez por semana,12.7,False
+2021,Suba,Menos de 1 vez por semana,10.0,False
+2021,Barrios Unidos,Menos de 1 vez por semana,13.4,False
+2021,Teusaquillo,Menos de 1 vez por semana,7.9,False
+2021,Los Mártires,Menos de 1 vez por semana,12.4,False
+2021,Antonio Nariño,Menos de 1 vez por semana,4.8,False
+2021,Puente Aranda,Menos de 1 vez por semana,7.6,False
+2021,La Candelaria,Menos de 1 vez por semana,7.6,False
+2021,Rafael Uribe Uribe,Menos de 1 vez por semana,10.4,False
+2021,Ciudad Bolívar,Menos de 1 vez por semana,14.8,False
+2021,Sumapaz,Menos de 1 vez por semana,9.2,False
+2021,Bogotá D.C.,Menos de 1 vez por semana,11.3,True
+2021,Usaquén,1 a 2 veces por semana,25.2,False
+2021,Chapinero,1 a 2 veces por semana,22.6,False
+2021,Santa Fe,1 a 2 veces por semana,18.8,False
+2021,San Cristóbal,1 a 2 veces por semana,23.2,False
+2021,Usme,1 a 2 veces por semana,19.5,False
+2021,Tunjuelito,1 a 2 veces por semana,18.7,False
+2021,Bosa,1 a 2 veces por semana,20.4,False
+2021,Kennedy,1 a 2 veces por semana,18.8,False
+2021,Fontibón,1 a 2 veces por semana,22.4,False
+2021,Engativá,1 a 2 veces por semana,22.8,False
+2021,Suba,1 a 2 veces por semana,20.7,False
+2021,Barrios Unidos,1 a 2 veces por semana,24.5,False
+2021,Teusaquillo,1 a 2 veces por semana,26.3,False
+2021,Los Mártires,1 a 2 veces por semana,21.7,False
+2021,Antonio Nariño,1 a 2 veces por semana,23.1,False
+2021,Puente Aranda,1 a 2 veces por semana,22.7,False
+2021,La Candelaria,1 a 2 veces por semana,22.8,False
+2021,Rafael Uribe Uribe,1 a 2 veces por semana,20.3,False
+2021,Ciudad Bolívar,1 a 2 veces por semana,18.1,False
+2021,Sumapaz,1 a 2 veces por semana,20.0,False
+2021,Bogotá D.C.,1 a 2 veces por semana,21.2,True
+2021,Usaquén,3 o más veces por semana,27.3,False
+2021,Chapinero,3 o más veces por semana,32.0,False
+2021,Santa Fe,3 o más veces por semana,13.8,False
+2021,San Cristóbal,3 o más veces por semana,12.4,False
+2021,Usme,3 o más veces por semana,10.0,False
+2021,Tunjuelito,3 o más veces por semana,22.4,False
+2021,Bosa,3 o más veces por semana,16.9,False
+2021,Kennedy,3 o más veces por semana,17.3,False
+2021,Fontibón,3 o más veces por semana,23.5,False
+2021,Engativá,3 o más veces por semana,18.8,False
+2021,Suba,3 o más veces por semana,26.1,False
+2021,Barrios Unidos,3 o más veces por semana,22.2,False
+2021,Teusaquillo,3 o más veces por semana,33.6,False
+2021,Los Mártires,3 o más veces por semana,14.0,False
+2021,Antonio Nariño,3 o más veces por semana,27.7,False
+2021,Puente Aranda,3 o más veces por semana,27.7,False
+2021,La Candelaria,3 o más veces por semana,27.1,False
+2021,Rafael Uribe Uribe,3 o más veces por semana,17.7,False
+2021,Ciudad Bolívar,3 o más veces por semana,14.7,False
+2021,Sumapaz,3 o más veces por semana,26.8,False
+2021,Bogotá D.C.,3 o más veces por semana,20.4,True
