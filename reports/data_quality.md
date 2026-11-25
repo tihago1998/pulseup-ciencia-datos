@@ -2,7 +2,7 @@
 
 **Evidencia:** GA1-220501094-01-AA1-EV05
 **Autor:** Santiago Varela Peña · ADSO, Ficha 3223873 · SENA
-**Notebook asociado:** [`notebooks/diagnostico_calidad.ipynb`](../notebooks/diagnostico_calidad.ipynb)
+**Notebook asociado:** [`notebooks/data_quality.ipynb`](../notebooks/diagnostico_calidad.ipynb)
 
 ## 1. Proyecto y pregunta analítica
 
