@@ -16,3 +16,7 @@ data/raw/*
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Datos procesados con microdatos del Eurobarómetro: la licencia de GESIS no permite redistribuirlos
+data/processed/*eurobarometer*
+!data/processed/*eurobarometer*indicators*

@@ -1,0 +1,57 @@
+fuente,indicador,dimension,categoria,valor,unidad
+BRFSS 2023,Adultos inactivos (ponderado),Grupo de edad,18-24,17.3,%
+BRFSS 2023,Adultos inactivos (ponderado),Grupo de edad,25-34,20.0,%
+BRFSS 2023,Adultos inactivos (ponderado),Grupo de edad,35-44,21.8,%
+BRFSS 2023,Adultos inactivos (ponderado),Grupo de edad,45-54,24.4,%
+BRFSS 2023,Adultos inactivos (ponderado),Grupo de edad,55-64,26.8,%
+BRFSS 2023,Adultos inactivos (ponderado),Grupo de edad,65+,31.7,%
+BRFSS 2023,Adultos inactivos (ponderado),Sexo,Hombre,21.8,%
+BRFSS 2023,Adultos inactivos (ponderado),Sexo,Mujer,26.9,%
+BRFSS 2023,Adultos inactivos (ponderado),Ingresos,Menos de 25 mil USD,40.7,%
+BRFSS 2023,Adultos inactivos (ponderado),Ingresos,25 a 50 mil USD,30.4,%
+BRFSS 2023,Adultos inactivos (ponderado),Ingresos,50 a 100 mil USD,20.6,%
+BRFSS 2023,Adultos inactivos (ponderado),Ingresos,100 a 200 mil USD,13.0,%
+BRFSS 2023,Adultos inactivos (ponderado),Ingresos,200 mil USD o más,8.2,%
+BRFSS 2023,Adultos inactivos (ponderado),Ingresos,No informa,28.7,%
+BRFSS 2023,Adultos inactivos (ponderado),Salud general,Excelente,14.1,%
+BRFSS 2023,Adultos inactivos (ponderado),Salud general,Muy buena,15.0,%
+BRFSS 2023,Adultos inactivos (ponderado),Salud general,Buena,26.4,%
+BRFSS 2023,Adultos inactivos (ponderado),Salud general,Regular,40.4,%
+BRFSS 2023,Adultos inactivos (ponderado),Salud general,Mala,59.0,%
+BRFSS 2023,Adultos inactivos (ponderado),Categoría de IMC,Bajo peso,29.0,%
+BRFSS 2023,Adultos inactivos (ponderado),Categoría de IMC,Normal,18.9,%
+BRFSS 2023,Adultos inactivos (ponderado),Categoría de IMC,Sobrepeso,20.8,%
+BRFSS 2023,Adultos inactivos (ponderado),Categoría de IMC,Obesidad,30.2,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,Falta de tiempo,40.4,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,Falta de motivación o interés,24.6,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,Discapacidad o enfermedad,16.7,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,Costo,9.7,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,No le gustan las actividades competitivas,9.6,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,Miedo a lesionarse,9.4,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,Ninguna,8.7,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,No tener con quién practicar,6.0,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,Falta de instalaciones cercanas,6.0,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,Otra razón,3.0,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,Falta de oportunidades con personas del mismo género,2.5,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,No sabe,1.9,%
+Eurobarómetro 97.3,Menciona la barrera,Barrera,Se siente discriminado,1.3,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,San Cristóbal,55.4,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Kennedy,53.3,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Usme,53.3,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Ciudad Bolívar,52.4,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Los Mártires,51.8,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Rafael Uribe Uribe,51.6,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Santa Fe,50.9,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Bosa,50.5,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Tunjuelito,46.8,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Engativá,45.6,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Antonio Nariño,44.5,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Sumapaz,44.1,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Fontibón,43.6,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Suba,43.2,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,La Candelaria,42.5,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Puente Aranda,42.1,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Barrios Unidos,40.0,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Usaquén,38.4,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Chapinero,34.1,%
+Bogotá (SDS),Sin actividad física en el mes (2021),Localidad,Teusaquillo,32.2,%
